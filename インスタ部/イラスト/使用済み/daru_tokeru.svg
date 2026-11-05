@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="溶けたように広がる恐竜">
+<g stroke="#454545" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<path fill="#FFFFFF" d="M430 450 C444 416 486 424 486 458 C516 446 548 476 530 506 C546 510 536 548 504 562 L460 520 Z"></path>
+<path fill="#8CCB7E" d="M84 650 C54 616 120 602 164 590 C220 570 212 424 340 418 C462 416 470 540 526 576 C590 602 744 608 730 652 C716 690 610 664 560 672 C530 700 492 694 470 674 C360 682 300 672 240 676 C210 700 170 692 158 668 C130 672 100 668 84 650 Z"></path>
+<path fill="none" d="M244 518 L302 516"></path><path fill="#454545" stroke="none" d="M257 517 A17 17 0 0 0 291 516 Z"></path>
+<path fill="none" d="M350 514 L408 516"></path><path fill="#454545" stroke="none" d="M363 515 A17 17 0 0 0 397 516 Z"></path>
+<path fill="none" d="M306 576 L344 578"></path>
+</g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="うつ伏せで寝そべる恐竜">
+<g stroke="#454545" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<path fill="#FFFFFF" transform="translate(16 -22)" d="M330 450 C338 408 386 404 398 442 C426 414 476 430 472 470 C504 450 546 472 540 512 C572 500 608 524 600 562 L440 540 Z"></path>
+<path fill="#8CCB7E" d="M128 640 C84 636 76 584 96 540 C124 464 196 424 280 428 C344 432 410 452 470 482 C546 516 640 558 720 596 C762 618 752 648 712 648 L128 640 Z"></path>
+<path fill="#8CCB7E" d="M340 620 C320 626 306 648 320 662 C338 676 404 676 420 660 C434 644 416 622 396 622 Z"></path>
+<path fill="none" d="M150 520 L208 518"></path><path fill="#454545" stroke="none" d="M163 519 A17 17 0 0 0 197 518 Z"></path>
+<path fill="none" d="M256 516 L314 518"></path><path fill="#454545" stroke="none" d="M269 517 A17 17 0 0 0 303 518 Z"></path>
+<path fill="none" d="M214 584 L252 586"></path>
+</g>
+</svg>

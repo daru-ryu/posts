@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="布団で眠る恐竜">
+<g stroke="#454545" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<rect x="70" y="548" width="290" height="92" rx="36" fill="#FFFFFF"></rect>
+<path fill="#8CCB7E" d="M700 640 C750 642 790 622 772 588 C756 566 722 590 690 604 Z"></path>
+<path fill="#FFFFFF" d="M262 350 C276 304 328 310 330 350 C366 334 404 368 384 404 C412 404 428 436 408 456 L300 460 Z"></path>
+<ellipse cx="225" cy="462" rx="135" ry="122" fill="#8CCB7E"></ellipse>
+<path fill="#FFFFFF" d="M296 640 C286 470 400 376 540 398 C654 418 724 520 732 640 Z"></path>
+<path fill="none" d="M136 462 L190 460"></path>
+<path fill="none" d="M244 458 L298 460"></path>
+<path fill="none" d="M200 518 L236 520"></path>
+<path fill="none" d="M560 262 L612 262 L560 322 L612 322"></path>
+<path fill="none" d="M640 196 L678 196 L640 240 L678 240"></path>
+</g>
+</svg>
