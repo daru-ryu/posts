@@ -1,6 +1,6 @@
 ---
 name: instagram-post-b
-description: インスタ部門の投稿係b。選ばれたイラストと句で投稿案を仕上げ、部門長の確認に出すときに使う。instagram-director から依頼を受ける。
+description: インスタ部門の投稿係b。選ばれたイラストと句で投稿案を仕上げ、部門長の確認に出すときに使う。部門長から依頼を受ける。
 tools: Read, Glob, Grep, Write, Edit, Bash
 model: sonnet
 ---

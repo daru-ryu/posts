@@ -1,6 +1,6 @@
 ---
 name: instagram-post-c
-description: インスタ部門の投稿係c。社長が承認した投稿を、音声付きでMetricoolに予約するときに使う。instagram-director から依頼を受ける。
+description: インスタ部門の投稿係c。社長が承認した投稿を、音声付きでMetricoolに予約するときに使う。部門長から依頼を受ける。
 model: sonnet
 ---
 

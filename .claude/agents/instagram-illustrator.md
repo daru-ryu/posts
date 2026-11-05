@@ -1,6 +1,6 @@
 ---
 name: instagram-illustrator
-description: インスタ部門のイラスト係。ダル竜の差分を企画し、SVGで描き、修正し、PNGに書き出すときに使う。instagram-director から依頼を受ける。
+description: インスタ部門のイラスト係。ダル竜の差分を企画し、SVGで描き、修正し、PNGに書き出すときに使う。部門長から依頼を受ける。
 tools: Read, Glob, Grep, Write, Edit, Bash
 model: sonnet
 ---

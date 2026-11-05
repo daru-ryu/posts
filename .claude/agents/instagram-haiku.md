@@ -1,6 +1,6 @@
 ---
 name: instagram-haiku
-description: インスタ部門の575係。投稿係aの提示した季節、投稿曜日、イラストに合う五七五を作るときに使う。instagram-director から依頼を受ける。
+description: インスタ部門の575係。投稿係aの提示した季節、投稿曜日、イラストに合う五七五を作るときに使う。部門長から依頼を受ける。
 tools: Read, Glob, Grep
 model: sonnet
 ---
